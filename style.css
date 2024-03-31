@@ -8,8 +8,8 @@ body {
 	font-family: Arial;
 	user-select: none;
 	-webkit-user-select: none;
-    	-moz-user-select: none;
-    	-ms-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 	overflow: hidden;
 	background: #7F7FD5;
 	background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
@@ -19,6 +19,7 @@ body {
 
 #inscription {
 	text-align: center;
+	text-shadow: 0 0 20px white;
 	margin-top: 20%;
   	font-size: 10rem;
   	color: white;
